@@ -1,4 +1,3 @@
-# DeepStock_AI
 
 # DeepStock AI – Real-Time Financial News Sentiment and Query System
 
