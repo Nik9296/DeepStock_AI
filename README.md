@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ### 3. Run the Application
 ```bash
-uvicorn backend.main:app --reload
+uvicorn backend:app
 ```
 
 Then open your browser at:  
@@ -110,3 +110,4 @@ DeepStockAI/
 - [NewsAPI](https://newsapi.org/)
 
 ---
+
